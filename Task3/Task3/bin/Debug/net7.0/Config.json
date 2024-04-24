@@ -1,0 +1,5 @@
+{
+  "url": "https://demoqa.com/",
+  "Browser" : "Chrome",
+  "Wait" : "10" 
+}

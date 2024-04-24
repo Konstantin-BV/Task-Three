@@ -1,0 +1,27 @@
+{
+	"Users" : {
+		"user1" :
+		{
+			"FirstName" : "Buttercup",
+			"LastName" : "Cumbersnatch",
+			"Email" : "BudapestCandygram@mail.com",
+			"Age" : "41",
+			"Salary" : "2000",
+			"Departament" : "beta"
+		},
+		"user2" :
+		{
+			"FirstName" : "Jon",
+			"LastName" : "Snow",
+			"Email" : "knownothing@gmail.com",
+			"Age" : "30",
+			"Salary" : "3000",
+			"Departament" : "alpha"
+		}
+	},
+	"ExpectedTextAlert" : "You clicked a button",
+	"ExpectedTextAlertTime" : "This alert appeared after 5 seconds",
+	"ExpectedTextAlertApper" : "Do you confirm action?",
+	"ExpectedTextAlertPromt": "Please enter your name"
+
+}
